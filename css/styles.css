@@ -10,7 +10,18 @@ hr {
     border-width: 5px;
 }
 
+img:hover {
+    background-color: gold;
+}
+
 h1 {
     color: #2E4C6D;
-    text-align: center;
+}
+
+.firstimg {
+    color: red;
+}
+
+.secondimg {
+    background-color: bisque;
 }
