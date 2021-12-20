@@ -25,3 +25,31 @@ h1 {
 .secondimg {
     background-color: bisque;
 }
+
+.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+    position: absolute;
+}
+
+.blue {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    position: absolute;
+    top: 108px;
+    left: 108px;
+}
+
+.yellow {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    background-color: yellow;
+    left: 208px;
+    top: 208px;
+}
