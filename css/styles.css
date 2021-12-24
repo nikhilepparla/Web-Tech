@@ -1,5 +1,10 @@
 body {
     background-color: #F5EEDC;
+    font-family: Trebuchet MS, serif;
+}
+
+.foodbody {
+    font-family: Trebuchet MS, serif;
 }
 
 hr {
@@ -10,26 +15,16 @@ hr {
     border-width: 5px;
 }
 
-img:hover {
-    background-color: gold;
-}
-
 h1 {
     color: #2E4C6D;
-}
-
-.firstimg {
-    color: red;
-}
-
-.secondimg {
-    background-color: bisque;
+    font-family: 'Sacramento', cursive;
+    font-size: normal;
 }
 
 .red {
     height: 100px;
     width: 100px;
-    background-color: red;
+    background-color: #ff0000;
     display: inline-block;
     position: absolute;
 }
@@ -37,7 +32,7 @@ h1 {
 .blue {
     height: 100px;
     width: 100px;
-    background-color: blue;
+    background-color: #0000ff;
     display: inline-block;
     position: absolute;
     top: 108px;
@@ -48,8 +43,32 @@ h1 {
     height: 100px;
     width: 100px;
     display: inline-block;
+    position: ab;
+    background-color: #ffff00;
     position: absolute;
-    background-color: yellow;
-    left: 208px;
     top: 208px;
+    left: 208px;
+}
+
+.Container {
+    background-color: rosybrown;
+    height: 400px;
+    width: 400px;
+}
+
+.firstimg {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.secondimg {
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+
+.images {
+    height: 20px;
+    width: 20px;
 }
