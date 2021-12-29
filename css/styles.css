@@ -72,3 +72,69 @@ h1 {
     height: 20px;
     width: 20px;
 }
+
+.StubCode_image_mountain_2 {
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 10px;
+}
+
+.index_para1 {
+    line-height: 2;
+}
+
+.StubCode_image_cloud_3 {
+    margin-right: 10px;
+    float: left;
+}
+
+.skill-row_2 {
+    margin-top: 100px;
+}
+
+.index_para1 {
+    line-height: 3;
+}
+
+.middle-container {
+    line-height: 1;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 7px;
+    text-decoration: none;
+    margin: 100px;
+}
+
+.btn:hover {
+    background: #0097f5;
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: bisque;
+    margin-top: 50px;
+    padding: 16px;
+}
+
+.contact-me-bottom {
+    margin-bottom: 50px;
+}
+
+a {
+    color: #11999E;
+    margin: 20px;
+}
